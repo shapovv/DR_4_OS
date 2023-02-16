@@ -88,6 +88,7 @@ int main(int argc, char **argv) {
     close(fd);
     close(fdout);
     return 0;
+}
 ```
 
 **Компиляция и запуск исполняемого файла:**
